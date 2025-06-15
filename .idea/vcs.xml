@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Background-Removal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/captcha-solver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datamatrix-semiconductor-pipeline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/table-items-yolo-detection" vcs="Git" />
+  </component>
+</project>
